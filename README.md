@@ -19,10 +19,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/devan ps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devan ps" height="30" width="40" /></a>
-<a href="https://instagram.com/steve_r_o_g_e_r_s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="steve_r_o_g_e_r_s" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/devan-ps-b79083293/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devan ps" height="30" width="40" /></a>
+<a href="https://www.instagram.com/steve__r_o_g_e_r_s?igsh=ZjdvMWZvbGUxbWgy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="steve_r_o_g_e_r_s" height="30" width="40" /></a>
 <a href="https://youtube.com/@gampro6082?si=LOJ5qf93yf5BkJJL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gampro" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/devanps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="devanps" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/DevanPS/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="devanps" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
