@@ -7,8 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devanps212&label=Profile%20views&color=0e75b6&style=flat" alt="devanps212" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devanps212" alt="devanps212" /></a> </p>
-
 - 🔭 I’m currently working on [Rent A Car](https://github.com/Devanps212/RAC-Frontend_.git)
 
 - 💬 Ask me about **React.js, Node.js, MongoDB, PostgreSQL, Express.js**
