@@ -7,8 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devanps212&label=Profile%20views&color=0e75b6&style=flat" alt="devanps212" /> </p>
 
-- 🔭 I’m currently working on [Rent A Car](https://github.com/Devanps212/RAC-Frontend_.git)
-
 - 💬 Ask me about **React.js, Node.js, MongoDB, PostgreSQL, Express.js**
 
 - 📫 How to reach me **devanps2000@gmail.com**
